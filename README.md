@@ -1,22 +1,8 @@
 # What's new in TensorFlow 2.x
 
-The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
+The following are all the changes coming in TensorFlow 2.55. Let's have a closer look at them:
 
-* Eager Execution / tf.function
-* Integration of the Keras API
-* Facilitated distributed training
-* TF Data
-* TF SavedModel
-* TensorFlow Hub
-* TensorFlow Serving
-* TensorFlow Lite
-* TensorFlow.js
-* Tidying up the API
-* The conversion tool
-* Alternative variable scoping
-  
-
-## Eager Execution
+THERE ARE NO CHANGES, THERE IS ONLY DIO
 
 
 Lack of eager execution was one of the main complaints against TensorFlow. We all can relate. Having to execute the whole graph and then trying to debug based on the errors was very tedious. Especially, since values of intermediate results haven't been accessible without printing them out by mixing in debug statements into the production code.
